@@ -1,16 +1,15 @@
 # to_do_app_2
 
-A new Flutter project.
+## Main features
+  1. Local push notification
+  2. local storage
+  3. getx
+  4. DateTime picker and Local Time Zone
+  5. Dark and Light Mode
 
-## Getting Started
+## Check these videos for more details
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/110902058/210412545-8308e9e1-175c-4577-8fd2-160c04d25d2d.mp4
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/110902058/210412566-11fdac35-594b-451a-a831-06679e25ff22.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
