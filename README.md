@@ -3,7 +3,7 @@
 ## Main features
   1. Local push notification
   2. local storage
-  3. getx
+  3. Getx
   4. DateTime picker and Local Time Zone
   5. Dark and Light Mode
   6. Get Timezone
