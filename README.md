@@ -6,6 +6,7 @@
   3. getx
   4. DateTime picker and Local Time Zone
   5. Dark and Light Mode
+  6. Get Timezone
 
 ## Check these videos for more details
 
